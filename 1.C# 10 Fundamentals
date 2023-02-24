@@ -22,3 +22,11 @@ Using C# we can build the following types of applications
 3.Web applications
 4.Mobile applications
 5.Services
+
+1.docs.microsoft.com/en-us/dotnet/csharp
+2.c# is an object-oriented and type safe language to write .net applications
+3.c# is actively maintained
+4.c# can be used to build all types of .net applications
+5.Applications can created using 
+	a.visual studio
+	b.CLI(combined with VS Code)
