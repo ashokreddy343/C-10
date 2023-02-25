@@ -30,3 +30,25 @@ Using C# we can build the following types of applications
 5.Applications can created using 
 	a.visual studio
 	b.CLI(combined with VS Code)
+c# keywords
+-----------
+1.int , in	class	using	
+
+2.while 	new 	null	if 	case
+
+3.ref	 return lock   long string  struct
+
+4.const enum void
+
+c# variables
+------------
+1.A variable holds a value
+2.A variable has certin types (string,int,date...)
+3.ex int age ; 
+	here int is a Type age is identifier
+int age=25; // here = (assignment operator) - 25 value
+
+Working with Built in types
+-------------------------
+1.C# is a strongly types language
+2.Every variable has a type
