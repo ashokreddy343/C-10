@@ -52,3 +52,18 @@ Working with Built in types
 -------------------------
 1.C# is a strongly types language
 2.Every variable has a type
+
+Predefined Data Types in c#
+---------------------------
+1.bool
+2.int
+3.float
+4.double
+5.decimal
+6.char
+7.byte(sbyte)
+8.short(ushort)
+9.object
+10.string
+
+ex: int b=a+3 ;(a+3 is a expression)
