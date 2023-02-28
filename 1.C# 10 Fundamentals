@@ -67,3 +67,12 @@ Predefined Data Types in c#
 10.string
 
 ex: int b=a+3 ;(a+3 is a expression)
+Changing between types
+--------------------
+1.Implicit conversion
+	ex: int a =123456;
+	    long l =a ;
+2.Casting -Explicit conversion
+		double d =1234533.0
+		int a =(int) d;
+3.Helpers
